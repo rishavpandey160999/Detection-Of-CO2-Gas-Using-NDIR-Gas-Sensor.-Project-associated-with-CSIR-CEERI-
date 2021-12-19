@@ -10,9 +10,11 @@ detector is not limited only for CO2 gas but can be used to detect any IR- Activ
 gas like CO, NO, SO2 but at different wavelengths of Infrared Radiation. It is
 called as Non-Dispersive because the IR light which passes through the gas
 chamber is not pre-filtered.
+
 In NDIR Gas Sensors, generally two main things happen:
 1. Beer-Lambert Law
 2. IR-Spectroscopy
+
 Since, the Infrared Radiation passes through a cylindrical gas chamber, its
 intensity varies exponentially as the length of the chamber and the
 concentration of CO2 increases. Thus, showing an application of Beer-Lambert
