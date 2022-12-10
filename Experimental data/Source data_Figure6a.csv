@@ -1,0 +1,38 @@
+,gas concontration(PPM),measurement data ¡÷V/V0,fitting data ¡÷V/V0
+Figure 6a,0,0,0
+Detector I,500,-8.38E-02,-0.01903
+changed CO,1000,-0.10518,-0.03664
+,2000,-0.14936,-0.06854
+,5000,-0.17769,-0.14306
+,10000,-0.19315,-0.21933
+,20000,-0.24414,-0.28303
+,,,
+,,,
+,gas concontration(PPM),measurement data ¡÷V/V0,fitting data ¡÷V/V0
+Figure 6a,0,0,0
+Detector I,500,-4.38E-03,-0.00356
+changed SO2,1000,-0.03222,-0.00637
+,2000,-0.03432,-0.01137
+,5000,-0.03854,-0.02438
+,10000,-0.04075,-0.04321
+,20000,-0.04408,-0.07602
+,,,
+,,,
+,gas concontration(PPM),measurement data ¡÷V/V0,fitting data ¡÷V/V0
+Figure 6a,0,0,0
+Detector II,500,-5.61E-02,-0.00369
+changed CO,1000,-0.0573,-0.00669
+,2000,-0.06241,-0.0121
+,5000,-0.05332,-0.02642
+,10000,-0.03775,-0.04743
+,20000,-0.06515,-0.0844
+,,,
+,,,
+,gas concontration(PPM),measurement data ¡÷V/V0,fitting data ¡÷V/V0
+Figure 6a,0,0,0
+Detector II,500,-5.84E-02,-0.02939
+changed SO2,1000,-0.07042,-0.05055
+,2000,-0.09103,-0.08341
+,5000,-0.11791,-0.14459
+,10000,-0.15824,-0.1919
+,20000,-0.20079,-0.2212
